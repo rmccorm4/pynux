@@ -10,3 +10,6 @@ colorscheme pynux
 
 Also I didn't extensively look into every category, so if you find anything 
 ugly or inconsistent, let me know and I will fix it!
+
+![python_example](images/python_colorscheme.png)
+![c++_example](images/c++_colorscheme.png)
